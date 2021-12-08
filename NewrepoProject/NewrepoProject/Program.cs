@@ -7,6 +7,7 @@ namespace NewrepoProject
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Pemrogaman Lanjut S1 Informatika");
         }
     }
 }
